@@ -10,8 +10,8 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date"><p>Categories:&emsp;{{ post.categories }}</p>{{ post.date | date_to_string }}</time>
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
     {{ post.content }}
   </article>
