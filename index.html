@@ -10,7 +10,18 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date"><p>Categories:&emsp;{{ post.categories }}</p>{{ post.date | date_to_string }}</time>
+    <small>
+    <p>Category:&emsp;
+        {% capture c_cat %} {{ post.category | strip | downcase }} {% endcapture %}
+        {% for scat in site.category_list %}
+           {% capture s_cat %} {{ scat[0] | strip | downcase }} {% endcapture %}
+           {% if s_cat == c_cat %}
+               <a href="{{ scat[1]  }}">{{ scat[0] }}</a>
+           {% endif %}
+         {% endfor %}
+    </p>
+  </small>
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
 
     {{ post.content }}
