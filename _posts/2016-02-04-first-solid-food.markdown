@@ -3,7 +3,7 @@ layout: post
 title:  聊聊辅食
 date:   2016-02-04
 author: Flickerlight
-categories: mothercare
+category: Motherhood
 ---
 &emsp;&emsp;最近加入了个微信辅食交流群，成员大多是宝宝刚加辅食或者快要加辅食的妈妈们。之前一直只吃纯奶的小朋友开始吃固体食物了，妈妈们的兴奋是显而易见的，辅食群里每天都很热闹，讨论中也凸显出一些普遍困惑的问题，在这里写一下我的理解和桃大人加辅食过程中的一些经验教训。
 

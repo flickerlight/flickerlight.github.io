@@ -1,6 +1,5 @@
 # Permalinks
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
 # Setup
@@ -30,6 +29,6 @@ pages_list:
   #Feed: '/atom.xml'
 
 category_list:
-  Mothercare: '/mothercare'
+  Motherhood: '/motherhood'
+  Healthcare: '/healthcare'
   Other: '/other'
-  
