@@ -80,11 +80,11 @@ category: Motherhood
 
 &emsp;&emsp;这个必须要有，让宝宝从小知道坐在餐椅上就是要吃饭了是很重要的。我家是性价比爆棚的宜家餐椅，用到目前没有什么不满意的，稳，高度合适，容易清洁。\>\>[宜家安迪洛高脚椅子，带安全带](http://www.ikea.com/cn/zh/catalog/products/S69046232/)。餐盘需单买，还有充气靠垫可选。如果是很胖的宝宝不需要买充气靠垫。
 
-&emsp;&emsp;<img src="/images/2016-02-05/ikea_chair.jpg" width="200">
+&emsp;&emsp;<img src="/images/2016-02-05/ikea_chair.JPG" width="200">
 
 &emsp;&emsp;这里要多说几句。类似于下图这样的餐椅是有安全隐患的，宝宝在餐椅上扭动、蹬腿和探身的话有可能导致餐椅重心不稳而倾覆。如果你家的餐椅是这种接地面积比较狭窄的，尽量不要把宝宝一个人留在餐椅上无人照看。对照宜家餐椅，它的四条腿是向外伸开的，这样才能保证不管宝宝怎么动作餐椅的重心不会超出地上的受力面积。
 
-&emsp;&emsp;<img src="/images/2016-02-05/unsafe_chair.jpg" width="200">
+&emsp;&emsp;<img src="/images/2016-02-05/unsafe_chair.JPG" width="200">
 
 * __便携餐椅 ＋＋＋＋__
 
