@@ -3,7 +3,7 @@ layout: post
 title:  湿疹作战笔记（上）
 date:   2016-06-28
 author: Flickerlight
-category: Healthcare
+category: Healthcare,Motherhood
 ---
 <img src="/images/2016-06-28/woman-child-dragon.jpg">
 
