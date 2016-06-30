@@ -1,32 +1,32 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
 # Permalinks
-#
-permalink:           pretty
+permalink:        pretty
+#relative_permalinks: true
 
 # Setup
-title:              Caramel's Pride
-tagline:            
-paginate:            1
-baseurl: "" #if use for personal site. The subpath of your site, e.g. /blog/
-url: "https://flickerlight.github.io" # the base hostname & protocol for your site
+title:            Shimmering Flats
+tagline:          ''
+description:      'Personal Blog of <a href="http://weibo.com/flickerlight" target="_blank">@flickerlight</a>.'
+url:              http://flickerlight.github.io
+baseurl:          /
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
 author:
-  name:              Lynn Chen
-  url:               
-  email:             cwlme82@gmail.com
+  name:           'Flickerlight'
+  url:            http://weibo.com/flickerlight
 
+paginate:         1
 
-pages_list:       
-  About: '/about'
-  Archive: '/archive'
-  #Feed: '/atom.xml'
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+gems: [jekyll-paginate]
+
 
 category_list:
   Motherhood: '/motherhood'

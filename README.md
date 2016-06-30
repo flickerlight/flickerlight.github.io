@@ -1,1 +1,1 @@
-Flickerlight's personal blog
+Flickerlight's personal blog.
