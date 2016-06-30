@@ -12,8 +12,16 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
+  <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+  <p>
+    类别:&emsp;
+        {% capture c_cat %} {{ post.category | strip | downcase }} {% endcapture %}
+        {% for scat in site.category_list %}
+           {% capture s_cat %} {{ scat[0] | strip | downcase }} {% endcapture %}
+           {% if s_cat == c_cat %}
+               <a href="{{ scat[1]  }}">{{ scat[0] }}</a>
+           {% endif %}
+         {% endfor %}
     {{ post.content }}
   </div>
   {% endfor %}

@@ -27,6 +27,9 @@ github:
 
 gems: [jekyll-paginate]
 
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
 category_list:
   Motherhood: '/motherhood'
