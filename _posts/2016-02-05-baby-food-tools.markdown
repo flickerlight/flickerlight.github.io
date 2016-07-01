@@ -19,12 +19,12 @@ category: Motherhood
 
 &emsp;&emsp;我是倾向于和大人的用具分开的，又是外貌党，所以日本亚马逊海淘了一套粉红色京瓷（其实我家除了砧板刀具，连捞勺和中途处理食材的碗也是分开的，一般不需要像我这么洁癖）。日亚一个四件的京瓷套装6000日元左右，比起国内一把几百块划算太多了。当然国产陶瓷刀普通刀用起来也不错，各取所需吧。\>\>[京瓷陶瓷刀套装 － 日亚](http://www.amazon.co.jp/gp/product/B004F7X7AY/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1)
 
-&emsp;&emsp;<img src="/images/2016-02-05/kyocera_pink.jpg" width="200">
+&emsp;&emsp;<img src="/images/2016-02-05/kyocera_pink.jpg" width="400">
 
 
 &emsp;&emsp;砧板可以买宜家的塑料砧板套装，性价比不错，大小两块，一个切水果一个切生食。\>\>[宜家莱吉迪砧板两件套](http://www.ikea.com/cn/zh/catalog/products/40163622/)
 
-&emsp;&emsp;<img src="/images/2016-02-05/ikea_chopping_board.jpg" width="200">
+&emsp;&emsp;<img src="/images/2016-02-05/ikea_chopping_board.jpg" width="400">
 
 
 * __辅食机 －－－－__
@@ -39,7 +39,7 @@ category: Motherhood
 
 &emsp;&emsp;比如这个\>\>[飞利浦手持式料理机HR1608－中亚](http://www.amazon.cn/gp/product/B00HHP0KKG/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B00HHP0KKG&linkCode=as2&tag=carspri-23)，我家的料理机是这个的前代产品，封闭式的切碎器用于绞肉和打碎坚果，大口杯夏天打奶昔果汁，换打蛋头就可以打发蛋白和奶油。
 
-&emsp;&emsp;<img src="/images/2016-02-05/philips_hr1608.jpg" width="200">
+&emsp;&emsp;<img src="/images/2016-02-05/philips_hr1608.jpg" width="400">
 
 
 * __电炖锅 ＋＋＋__
@@ -48,7 +48,7 @@ category: Motherhood
 
 &emsp;&emsp;我买的时候就是在天猫随便找了一家价格合适的。\>\>[天际隔水电炖锅 － 天猫](https://detail.m.tmall.com/item.htm?id=22665244361&ali_trackid=2:mm_10891196_11916467_42072504:1454739269_251_2012797010&scm=20140618.1.01010001.0s9&e=5i6SNyQxKLVw4vFB6t2Z2ueEDrYVVa64K7Vc7tFgwiFRAdhuF14FMXh1hFB2TFoP79_TFaMDK6SBWYpKj0bT1pJl1UzW3kexbvuzrGrJYpFPXWa5lqRg7w6fkdQ0h8-XVKjU9FgIvq6-tKzQo9HCa0IwL9rWHbONwP9tZ7d7T9NJ-tlDK8gEl_fYE4s4GjJAVZsJjvswKT0&type=2&tkFlag=0)。其他牌子也有很多，没有一一研究。
 
-&emsp;&emsp;<img src="/images/2016-02-05/tianji.jpg" width="200">
+&emsp;&emsp;<img src="/images/2016-02-05/tianji.jpg" width="400">
 
 * __辅食剪 －－－__
 
@@ -58,11 +58,11 @@ category: Motherhood
 
 &emsp;&emsp;即使是全职妈妈，每顿都现做难度还是挺高的。而且如果煮粥煮面要用高汤，顿顿现炖更是不现实。用辅食盒冷冻一些食物，需要时取一块加热，还是很方便的。目前我家主力辅食盒是两套oxo的2盎司的，一套4个。可以微波炉可以消毒。\>\>[OXO食品冷冻储存盒 － 中亚](http://www.amazon.cn/gp/product/B004QZBEFU/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B004QZBEFU&linkCode=as2&tag=carspri-23)
 
-&emsp;&emsp;<img src="/images/2016-02-05/oxo_6.jpg" width="200">
+&emsp;&emsp;<img src="/images/2016-02-05/oxo_6.jpg" width="400">
 
 &emsp;&emsp;也有朋友用的是brother max的辅食盒并且强烈推荐，我看了下主要是可连接，摆放更紧凑。如果不是有了两套oxo我应该也会去买这个来试试。\>\>[brother max小副食品分装盒 － 中亚](http://www.amazon.cn/gp/product/B00TQMRGWS/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B00TQMRGWS&linkCode=as2&tag=carspri-23")
 
-&emsp;&emsp;<img src="/images/2016-02-05/brothermax.jpg" width="200">
+&emsp;&emsp;<img src="/images/2016-02-05/brothermax.jpg" width="400">
 
 * __研磨碗 ＋＋__
 
@@ -71,7 +71,7 @@ category: Motherhood
 &emsp;&emsp;价格嘛，中国亚马逊平时五十几块，母婴品类经常有活动的，300-100常有。
 \>\>[NUK婴儿辅食研磨碗 －中亚](http://www.amazon.cn/gp/product/B006Z6E8AG/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B006Z6E8AG&linkCode=as2&tag=carspri-23)
 
-&emsp;&emsp;<img src="/images/2016-02-05/nuk_bowl.jpg" width="200">
+&emsp;&emsp;<img src="/images/2016-02-05/nuk_bowl.jpg" width="400">
 
 * __消毒锅 ＋＋__
 
@@ -79,7 +79,7 @@ category: Motherhood
 
 \>\>[PIGEON贝亲 烘干式蒸汽消毒器 -  中亚](http://www.amazon.cn/gp/product/B00CK5UM5Q/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00CK5UM5Q&linkCode=as2&tag=carspri-23)。
 
-&emsp;&emsp;<img src="/images/2016-02-05/pigenon_sterilizer.jpg" width="200">
+&emsp;&emsp;<img src="/images/2016-02-05/pigenon_sterilizer.jpg" width="400">
 
 >## 吃饭装备
 
@@ -88,7 +88,7 @@ category: Motherhood
 
 &emsp;&emsp;这个必须要有，让宝宝从小知道坐在餐椅上就是要吃饭了是很重要的。我家是性价比爆棚的宜家餐椅，用到目前没有什么不满意的，稳，有安全带，高度合适，容易清洁。\>\>[安迪洛高脚椅子，带安全带](http://www.ikea.com/cn/zh/catalog/products/S69046232/)。餐盘需单买，还有可选配的充气靠垫 \>\>[皮特格 支撑垫附垫套](http://www.ikea.com/cn/zh/catalog/products/60251825/)。小宝宝如果还坐不太稳，充气靠垫我觉得还是必要的。
 
-餐椅：&emsp;&emsp;<img src="/images/2016-02-05/ikea_chair.JPG" width="200">
+餐椅：&emsp;&emsp;<img src="/images/2016-02-05/ikea_chair.JPG" width="400">
 
 餐盘：&emsp;&emsp;<img src="/images/2016-02-05/ikea_chair_plate.JPG" width="200">
 
