@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "起因"
+title:  "开张大吉"
 date:   2015-12-10
 author: Flickerlight
 category: Other
