@@ -22,7 +22,7 @@ category: Healthcare
 
 &emsp;&emsp;0.1%丁酸氢化可的松（尤卓尔）是能自行购买的非处方皮质类固醇激素中最弱的，FDA批准婴儿3个月以上就可以使用了。有些医院可能有自制的更弱的激素药膏，也是可以安全使用的。如果医生认为有必要使用更强的激素或结合使用其他药物（抗过敏药物、抗生素或免疫制剂），请遵医嘱。
 
-<div style="text-align:center"><img src="/images/2016-07-16/youzhuoer.png" width=400 align="center"></div>
+<p align="center"><img src="/images/2016-07-16/youzhuoer.png" width=400 align="center"></p>
 
 &emsp;&emsp;附上FDA批准的儿童可用的皮质类固醇激素药物清单供参考（绿色的几个是国内儿童湿疹的常用药。没有国内常见名的是我还没找到国内的对应版本）：
 
@@ -33,13 +33,13 @@ category: Healthcare
 &emsp;&emsp;激素药膏该涂多少？这也曾经是一个困扰过我的问题。用少了效果不好，用多了总有点心虚。NEA提到了一个很好的定量方法，即以成人食指第一指节长度来度量药膏(称为一个“指尖单位”,差不多是0.5克），如下图：
 
 
-<img src="/images/2016-07-16/finger_rule.jpg">
+<p align="center"><img src="/images/2016-07-16/finger_rule.jpg"></p>
 
-&emsp;&emsp;一指尖单位的药膏适用成人两个手掌（包括手指）那么大的皮肤面积。
+&emsp;&emsp;**一指尖单位的药膏适用成人两个手掌（包括手指）那么大的皮肤面积。**
 
 &emsp;&emsp;美国家庭医师学会（AAFP）则给出了如下用量表：
 
-<img src="/images/2016-07-16/Fingerunits.png" align="center" width=400>
+<p align="center"><img src="/images/2016-07-16/Fingerunits.png" width=400></p>
 
 &emsp;&emsp;**每天最多使用两次，很多时候一次就足够了**。在湿疹部位薄薄地涂一层药膏，涂完等一小会之后接着涂保湿。由于儿童皮肤薄，对类固醇激素的吸收比成人多，**如果是超过全身皮肤面积1/3的大面积湿疹，用量请严格遵医嘱。**
 
