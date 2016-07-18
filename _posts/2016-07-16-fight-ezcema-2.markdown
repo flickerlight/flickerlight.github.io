@@ -5,8 +5,8 @@ date:   2016-07-16
 author: Flickerlight
 category: Healthcare
 ---
-<img src="/images/2016-07-16/otcdrugs.jpg">
-&emsp;&emsp;如果湿疹严重瘙痒红肿甚至破皮流水，仅仅靠上篇提到的日常护理手段无法解决了，需要就医用药。对抗严重湿疹时医生可能开出抗过敏药物减轻瘙痒，抗生素对付皮肤破损感染，以及对湿疹治疗最重要的也被误解最多的：外用皮质类固醇激素药物。
+<p align="center"><img src="/images/2016-07-16/otcdrugs.jpg"></p>
+&emsp;&emsp;如果湿疹严重瘙痒红肿甚至破皮流水，仅仅靠上篇提到的日常护理手段就无法解决了，需要就医用药。对抗严重湿疹时医生可能开出抗过敏药物减轻瘙痒，抗生素对付皮肤破损感染，以及对湿疹治疗最重要的也被误解最多的：外用皮质类固醇激素药物。
 
 &emsp;&emsp;见“激素”二字就忐忑绝对不算中国特色。且看美国湿疹协会（NEA）也需要用长篇大论来解释外用皮质类固醇激素药物治疗湿疹是安全有效的，就知道对“激素”的恐惧实在是世界大同。
 
@@ -26,11 +26,11 @@ category: Healthcare
 
 &emsp;&emsp;附上FDA批准的儿童可用的皮质类固醇激素药物清单供参考（绿色的几个是国内儿童湿疹的常用药。没有国内常见名的是我还没找到国内的对应版本）：
 
-<img src="/images/2016-07-16/torpical_potency.jpg">
+<p align="center"><img src="/images/2016-07-16/torpical_potency.jpg"></p>
 
 ###参考“指尖规则”确定类固醇药物用量
 
-&emsp;&emsp;激素药膏该涂多少？这也曾经是一个困扰过我的问题。用少了效果不好，用多了总有点心虚。NEA提到了一个很好的定量方法，即以成人食指第一指节长度来度量药膏(称为一个“指尖单位”,差不多是0.5克），如下图：
+&emsp;&emsp;激素药膏该涂多少？这也曾经是一个困扰过我的问题。用少了怕效果不好，用多了总有点心虚。NEA提到了一个很好的定量方法，即以成人食指第一指节长度来度量药膏(称为一个“指尖单位”,差不多是0.5克），如下图：
 
 
 <p align="center"><img src="/images/2016-07-16/finger_rule.jpg"></p>
@@ -75,4 +75,4 @@ category: Healthcare
 
 [3] 美国银屑病基金会（NFP）网站上的[类固醇激素强度表](https://www.psoriasis.org/about-psoriasis/treatments/topicals/steroids/potency-chart)
 
-[4]果壳：解决皮肤问题，[氧化锌软膏并非万能](http://www.guokr.com/article/439146/)
+[4]果壳：[解决皮肤问题，氧化锌软膏并非万能](http://www.guokr.com/article/439146/)
