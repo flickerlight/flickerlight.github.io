@@ -27,6 +27,7 @@ github:
 
 gems: [jekyll-paginate]
 
+markdown:kramdown
 category_list:
   Motherhood: '/motherhood'
   Healthcare: '/healthcare'
