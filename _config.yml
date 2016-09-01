@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Shimmering Flats
 tagline:          'Personal Blog of Flickerlight'
-description:      'Personal Blog of <a href="http://weibo.com/flickerlight" target="_blank">flickerlight@weibo</a>'
+description:      ''
 url:              http://flickerlight.github.io
 baseurl:          /
 
