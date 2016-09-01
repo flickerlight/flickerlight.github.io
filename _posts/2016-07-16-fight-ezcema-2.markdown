@@ -22,7 +22,7 @@ category: Healthcare
 
 &emsp;&emsp;0.1%丁酸氢化可的松（尤卓尔）是能自行购买的非处方皮质类固醇激素中最弱的，FDA批准婴儿3个月以上就可以使用了。有些医院可能有自制的更弱的激素药膏，也是可以安全使用的。如果医生认为有必要使用更强的激素或结合使用其他药物（抗过敏药物、抗生素或免疫制剂），请遵医嘱。
 
-<p align="center"><img src="/images/2016-07-16/youzhuoer.jpg" width=400 align="center"></p>
+<p align="center"><img src="/images/2016-07-16/youzhuoer.jpg"></p>
 
 &emsp;&emsp;附上FDA批准的儿童可用的皮质类固醇激素药物清单供参考（绿色的几个是国内儿童湿疹的常用药。没有国内常见名的是我还没找到国内的对应版本）：
 
@@ -39,7 +39,7 @@ category: Healthcare
 
 &emsp;&emsp;美国家庭医师学会（AAFP）则给出了如下用量表：
 
-<p align="center"><img src="/images/2016-07-16/Fingerunits.jpg" width=400></p>
+<p align="center"><img src="/images/2016-07-16/Fingerunits.jpg"></p>
 
 &emsp;&emsp;**每天最多使用两次，很多时候一次就足够了**。在湿疹部位薄薄地涂一层药膏，涂完等一小会之后接着涂保湿。由于儿童皮肤薄，对类固醇激素的吸收比成人多，**如果是超过全身皮肤面积1/3的大面积湿疹，用量请严格遵医嘱。**
 
