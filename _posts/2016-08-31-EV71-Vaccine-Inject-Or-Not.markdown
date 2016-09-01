@@ -6,7 +6,6 @@ author: Flickerlight
 category: Healthcare
 ---
 
-手足口疫苗打不打？算算先
 <p align="center"><img src="/images/2016-08-31/numbers_calculation.jpg"></p>
 
 &emsp;&emsp;今年是手足口病的高发年，从4月间一直到夏末都还没有消停。同时今年我国也批准了首只针对手足口病的疫苗（以下简称EV71疫苗），眼下各地正在慢慢到货。打还是不打？有点纠结。
