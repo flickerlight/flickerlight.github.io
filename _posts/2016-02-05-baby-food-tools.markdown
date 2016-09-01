@@ -10,7 +10,7 @@ category: Motherhood
 
 &emsp;&emsp;仅供参考。
 
->## 做饭装备
+## 做饭装备
 
 
 * __专用砧板和刀具 ＋＋＋__
@@ -81,7 +81,7 @@ category: Motherhood
 
 &emsp;&emsp;<img src="/images/2016-02-05/pigenon_sterilizer.jpg" width="400">
 
->## 吃饭装备
+## 吃饭装备
 
 
 * __餐椅 ＋＋＋＋＋__
