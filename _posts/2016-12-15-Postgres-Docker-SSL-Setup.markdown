@@ -63,11 +63,12 @@ setupSSLConnection.sh：
 ```bash
 #!/bin/bash
 
-cp /docker-entrypoint-initdb.d/server.crt /var/lib/postgresql/data/
-cp /docker-entrypoint-initdb.d/server.key /var/lib/postgresql/data/
-chmod 600 /var/lib/postgresql/data/server.key
-sed -i 's/^#ssl = off/ssl = on/' /var/lib/postgresql/data/postgresql.conf
-sed -i 's/^host all all/hostssl all all/' /var/lib/postgresql/data/pg_hba.conf
+cp /docker-entrypoint-initdb.d/server.crt $PGDATA/server.crt
+cp /docker-entrypoint-initdb.d/server.key $PGDATA/server.key
+chmod 600 $PGDATA/server.key
+chown -R postgres:postgres $PGDATA
+sed -i 's/^#ssl = off/ssl = on/' $PGDATA/postgresql.conf
+sed -i 's/^host all all 0.0.0.0\/0 trust/hostssl all all 0.0.0.0\/0 md5/' $PGDATA/pg_hba.conf
 ```
 
 
